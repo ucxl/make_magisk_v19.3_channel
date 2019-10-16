@@ -10,7 +10,7 @@
   },
   "magisk": {
     "version": "19.3",
-    "versionCode": "20000",
+    "versionCode": "19300",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/2d7ddefbe4946806de1875a18247b724f5e7d4a0/notes.md",
     "md5": "088fb6545e7042a4939bda7d21423b8b"
